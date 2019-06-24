@@ -103,8 +103,10 @@
 - [TWDoorplates](https://github.com/g0v/TWDoorplates) - 台灣地址門牌查詢
 - [twgeojson](https://github.com/g0v/twgeojson) - 台灣行政區視覺化
 - [taiwan-address-lookup](https://github.com/ronnywang/taiwan-address-lookup) - 地址轉經緯度
+- [Land Serial Number GeoJSON API](http://twland.ronny.tw/) - 地號GeoJSON API
 - [data.g0v.ronny.tw](https://github.com/ronnywang/data.g0v.ronny.tw) - 政府開放資料平臺備份
 - [local.data](https://github.com/g0v/local.data) - 開放資料建立與普查
+- [Open Gov Data Helper](https://github.com/opengovdatatw) - 資料申請小幫手
 - [foundationtw](https://github.com/g0v/foundationtw) - NGO list retreieved from judicial.gov.tw.
 
 ### 公共安全（公共檢查及違法事項、犯罪與事故、環境與災害）
